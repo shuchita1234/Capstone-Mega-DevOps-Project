@@ -1,7 +1,6 @@
 # Capstone mega DevSecOps Project 🚀 
 
-## CD Repository: 👉 https://github.com/praduman8435/Capstone-Mega-CD-Pipeline
-
+## CD Repository: 👉 
 ## 🔍 Project Overview
 This project showcases a **complete, production-grade DevSecOps pipeline** to deploy a containerized MERN application on **Amazon EKS** using **Terraform, Jenkins, Helm, and Kubernetes**. It incorporates **CI/CD automation, infrastructure as code, monitoring, and security** to deliver a secure, scalable, and highly available cloud-native deployment.
 
